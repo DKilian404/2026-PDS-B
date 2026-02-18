@@ -1,4 +1,4 @@
-,img_id,patient_id,lesion_id,"AN5_hair (0-3)  Kilian","AN5_pen (0-1)  Kilian"
+img_id,patient_id,lesion_id,"AN5_hair (0-3) Kilian","AN5_pen (0-1) Kilian"
 0,PAT_8_15_820.png,PAT_8,15,2,1
 1,PAT_9_17_80.png,PAT_9,17,1,0
 2,PAT_15_23_240.png,PAT_15,23,1,1
